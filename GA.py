@@ -3,7 +3,6 @@
 # import random
 # from sklearn.preprocessing import LabelEncoder
 
-# # Load dataset
 # file_path = 'Training.csv'
 # data = pd.read_csv(file_path)
 
